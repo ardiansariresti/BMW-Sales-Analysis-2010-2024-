@@ -77,7 +77,7 @@ The dataset was obtained from **Kaggle**:
 ## ▶️ Run on Google Colab
 You can open and run the notebook directly in Google Colab:  
 
-[![Open In Colab](https://colab.research.google.com/drive/1z96Smlv2xIQgiLXNOUd4TaVLdmPTzldF#scrollTo=yf8p8d0s1vUf.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardiansariresti/BMW-Sales-Analysis/blob/main/bmw_sales_analysis.ipynb)
 
 ---
 

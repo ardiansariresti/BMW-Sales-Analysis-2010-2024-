@@ -45,27 +45,6 @@ The following insights are included in this analysis:
 
 ---
 
-## 📂 Repository Structure
-
-BMW-Sales-Analysis/
-│
-├── data/
-│   └── bmw_sales.xlsx               # dataset asli (Excel)
-│
-├── notebooks/
-│   └── bmw_sales_analysis.ipynb     # file Google Colab / Jupyter Notebook
-│
-├── images/                          # hasil visualisasi chart (png)
-│   ├── model_sales.png
-│   ├── worldwide_sales.png
-│   ├── fuel_type_sales.png
-│   ├── region_sales.png
-│   └── color_sales.png
-│
-└── README.md
-
----
-
 ## 📑 Dataset
 The dataset was obtained from **Kaggle**:  
 👉 [BMW Worldwide Sales Dataset](https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024)  
@@ -77,7 +56,7 @@ The dataset was obtained from **Kaggle**:
 ## ▶️ Run on Google Colab
 You can open and run the notebook directly in Google Colab:  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardiansariresti/BMW-Sales-Analysis/blob/main/bmw_sales_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardiansariresti/BMW-Sales-Analysis/blob/main/BMW_Sales_Analysis.ipynb)
 
 ---
 

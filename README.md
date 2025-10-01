@@ -20,19 +20,19 @@ The project aims to uncover insights about sales trends, customer preferences, a
 The following insights are included in this analysis:
 
 1. **Total Sales by BMW Model (2010–2024)**  
-   ![BMW Models by Total Sales](images/model_sales.png)
+   ![BMW Models by Total Sales](totalsales_bmwmodel.png)
 
 2. **Worldwide Sales Trend (2010–2024)**  
-   ![BMW Worldwide Sales](images/worldwide_sales.png)
+   ![BMW Worldwide Sales](worldwidesales.png)
 
 3. **Sales by Fuel Type (2010–2024)**  
-   ![BMW Sales by Fuel Type](images/fuel_type_sales.png)
+   ![BMW Sales by Fuel Type](fueltypesales.png)
 
 4. **Sales by Region (2010–2024)**  
-   ![BMW Sales by Region](images/region_sales.png)
+   ![BMW Sales by Region](regionsales.png)
 
 5. **Customer Preference & Market Demand by Car Color (2010–2024)**  
-   ![Customer Preference by Color](images/color_sales.png)
+   ![Customer Preference by Color](marketdemand.png)
 
 ---
 
